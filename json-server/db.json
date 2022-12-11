@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "jo@twitor.com",
+      "password": "$2a$10$qzLqISiNBdCLMhy8u.yte.0kn25M8fjyIWDN22kFn5FpwftGXjemu",
+      "pseudo": "jo",
+      "urlImgProfil": "test"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "contenu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "urlImgArticle": "https://source.unsplash.com/random/1000x300",
+      "like": 1,
+      "pseudo": "Jack",
+      "": "",
+      "date": 2751388156162,
+      "commentaires": [
+        {
+          "id": 1,
+          "contenu": "Trop d'accord",
+          "pseudo": "Bob",
+          "dt": 2751388156162
+        },
+        {
+          "id": 2,
+          "contenu": "MmmmmmH doubt",
+          "pseudo": "Jean",
+          "dt": 2751388156162
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "contenu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "urlImgArticle": "https://source.unsplash.com/random/1000x300",
+      "like": 1,
+      "pseudo": "Emma",
+      "": "",
+      "date": 1649277945051,
+      "commentaires": [
+        {
+          "id": 1,
+          "contenu": "Bien vu",
+          "pseudo": "Antoine",
+          "dt": 1649277945051
+        },
+        {
+          "id": 2,
+          "contenu": "SUPER !",
+          "pseudo": "Maxime",
+          "dt": 1649277945051
+        }
+      ]
+    }
+  ]
+}
